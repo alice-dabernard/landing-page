@@ -1,0 +1,53 @@
+.card img {
+	width: 400px;
+}
+.card h1 {
+	color: white;
+	font-size: 35px;
+}
+.card h2 {
+	color: white;
+	font-size: 25px;
+	font-weight: 300;
+}
+
+.card {
+	display: flex;
+	flex-wrap: wrap;
+	flex-grow: 1;
+	margin: 10px;
+  align-items: center;
+  justify-content: space-between;
+	margin-top: 40px;
+}
+.drinks {
+  display: flex;
+	flex-wrap: wrap;
+	flex-grow: 1;
+	margin: 30px;
+	margin-bottom: 20px;
+	align-items: center;
+  justify-content: space-between;
+  box-shadow: #558d30;
+  background-color: white;
+  border-radius: 6px;
+  padding: 20px;
+}
+
+.drinks img {
+  width: 200px;
+}
+
+#flavours {
+	text-align: center;
+	color: white;
+	font-weight: 300;
+	padding-top: 5px;
+}
+
+.flavour h4 {
+	text-align: center;
+	color: #78c148;
+}
+
+#img7 {margin-top: 18px;}
